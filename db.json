@@ -1,0 +1,25 @@
+{
+  "profile": [
+    {
+      "id": "b53e",
+      "firstName": "nivas",
+      "lastName": "nvk",
+      "email": "nivasnvk1709@gmail.com",
+      "age": 23
+    },
+    {
+      "id": "f20a",
+      "firstName": "nivas",
+      "lastName": "nvk",
+      "email": "nivasnvk1709@gmail.com",
+      "age": 24
+    },
+    {
+      "firstName": "nivas",
+      "lastName": "nvk",
+      "email": "nivasnvk1709@gmail.com",
+      "age": 24,
+      "id": "e888"
+    }
+  ]
+}
